@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## АИС Законопроект
 
-You can use the [editor on GitHub](https://github.com/solynkaz/lexpromobile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Инструкция по установке
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Подготовка ОС Android
 
-### Markdown
+Смартфон автоматически распознает любое приложение, поступившее не из Google Play, как «неизвестное приложение». Поэтому в настройках нужно разрешить установку из неизвестных источников.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Перейдите в раздел настроек. Выберите «Безопасность» (или «Блокировка экрана и безопасность»). Найдите пункт «Администрирование устройства» и включите установку из неизвестных источников. (Расположение настроек может различаться в зависимости от производителя устройства)
+
+![](https://4apk.ru/wp-content/uploads/2021/12/unknown-sources-android.jpeg)
+
+Далее, скачайте установочный файл по [ссылке](https://disk.yandex.ru/d/voYpOPuEzHf0jg) и откройте его.
+
+Появится всплывающее окно с вопросом, хотите ли вы разрешить браузеру сохранять файлы в хранилище смартфона. Ответьте согласием. Вы также увидите предупреждение о том, что «этот тип файла может повредить ваше устройство». Нажмите "Ок" и подождите, пока приложения установится.
+
+Когда появится уведомление об успешной установке приложения, вы сможете найти его в вашем списке программ.
+
 
 ```markdown
 Syntax highlighted code block
@@ -21,17 +30,5 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solynkaz/lexpromobile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
